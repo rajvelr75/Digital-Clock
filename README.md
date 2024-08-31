@@ -1,0 +1,3 @@
+Digital Clock Component in React
+
+This React component is a simple, yet elegant digital clock that dynamically displays the current time in a 12-hour format with an AM/PM indicator. The clock updates every second using React's useState and useEffect hooks to manage and refresh the time state efficiently. The component also includes proper cleanup of the interval timer to prevent memory leaks and ensure optimal performance. This makes it a perfect addition to any React project requiring a real-time clock display.

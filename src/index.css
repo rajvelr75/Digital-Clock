@@ -1,0 +1,9 @@
+body{
+  background-color: black;
+}
+.clock{
+  font-size: 200px;
+  margin-top: 250px;
+  margin-left:100px;
+  color: #f0f0f0;
+}
